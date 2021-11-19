@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gomodule/redigo/redis"
+	"github.com/licaonfee/redigo/redis"
 )
 
 type timeoutTestConn int

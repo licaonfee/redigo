@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gomodule/redigo/redis"
+	"github.com/licaonfee/redigo/redis"
 	"github.com/stretchr/testify/require"
 )
 
