@@ -19,8 +19,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/gomodule/redigo/redis"
-	"github.com/gomodule/redigo/redisx"
+	"github.com/licaonfee/redigo/redis"
+	"github.com/licaonfee/redigo/redisx"
 	"github.com/stretchr/testify/require"
 )
 
